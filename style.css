@@ -1,7 +1,153 @@
-img.hover {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  display: none;
-  width: 100%;
+#container {
+	
+display: block;
+font-size: 16px;
+font-family: sans-serif;
+font-weight: 700;
+color: #444;
+line-height: 1.3;
+padding: .6em 1.4em .5em .8em;
+width: 100%;
+max-width: 100%;
+box-sizing: border-box;
+margin: 0;
+border: 1px solid #aaa;
+box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+border-radius: .5em;
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+background-repeat: no-repeat, repeat;
+background-position: right .7em top 50%, 0 0;
+background-size: .65em auto, 100%;
+background: url('http:huben.us/mediawiki/images/2/23/Welcome_To_Hogwarts.jpg');
+background-color: rgba(93, 66, 66, 0.37);
 }
+
+
+p {
+color: red;
+text-align: center;
+font-size: 25px;
+font-family: Segoe UI;
+background-color: rgba(93, 66, 66, 0.37);
+
+	}
+
+}
+body{
+text-align: center;
+background-color: rgba(93, 66, 66, 0.37) 
+}
+
+#spells {
+color: red;
+text-align: center;
+font-size: 25px;
+font-family: ASegoe UI;
+background-color: rgba(93, 66, 66, 0.37);
+
+}
+
+#houses {
+color: red;
+text-align: center;
+font-size: 25px;
+font-family: ASegoe UI;
+background-color: rgba(93, 66, 66, 0.37);
+	
+}
+
+
+h1 {
+color: #10279c;
+text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgba(93, 66, 66, 0.7);
+text-shadow: black;
+font-weight: bold;
+font-size: 40px
+}
+
+
+
+button {
+border: none;
+color: white;
+padding: 10px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+background-color:#f14e4e
+}
+
+#classes {
+color: red;
+text-align: center;
+font-size: 25px;
+font-family: ASegoe UI;
+background-color: rgba(93, 66, 66, 0.37)
+}
+
+#wounds{
+color: red;
+text-align: center;
+font-size: 25px;
+font-family: ASegoe UI;
+background-color: rgba(93, 66, 66, 0.37)
+
+}
+
+#result{
+color:black;
+text-align: center;
+background-color: rgba(93, 66, 66, 0.37);
+font-size: 25px
+
+}
+#result1{
+color:black;
+text-align: center;
+background-color: rgba(93, 66, 66, 0.37);
+font-size: 25px
+
+
+}
+
+#result2 {
+
+color:black;
+text-align: center;
+background-color: rgba(93, 66, 66, 0.37);
+font-size: 25px
+
+}
+
+
+
+#result3 {
+color:black;
+text-align: center;
+background-color: rgba(93, 66, 66, 0.37);
+font-size: 25px
+
+
+
+}
+ span {
+ color: black;
+text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgba(93, 66, 66, 1);
+text-shadow: black;
+font-weight: bold;
+font-size: 20px
+ }
+
+
+
+
+
+
+
